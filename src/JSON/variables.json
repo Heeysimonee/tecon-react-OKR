@@ -1,0 +1,118 @@
+[
+  {
+    "id": 1,
+    "metadata": {},
+    "name": "PROJECT_NAME",
+    "type": "TEXT",
+    "level": "PROJECT",
+    "status": "ACTIVE",
+    "created_at": "2023-11-08T17:21:14.636362+01:00",
+    "updated_at": "2023-11-08T17:21:14.636393+01:00",
+    "created_by": {
+      "id": 1,
+      "name": "Simone"
+    }
+  },
+  {
+    "id": 8,
+    "metadata": {
+      "HEADER1": "TEXT",
+      "HEADER2": "TEXT",
+      "HEADER3": "TEXT"
+    },
+    "name": "customTable",
+    "type": "TABLE",
+    "level": "PROJECT",
+    "status": "ACTIVE",
+    "created_at": "2023-11-08T17:24:27.056006+01:00",
+    "updated_at": "2023-11-08T17:24:27.056079+01:00",
+    "created_by": {
+      "id": 1,
+      "name": "Simone"
+    }
+  },
+  {
+    "id": 2,
+    "metadata": {},
+    "name": "PROJECT_LOGO",
+    "type": "IMAGE",
+    "level": "PROJECT",
+    "status": "ACTIVE",
+    "created_at": "2023-11-08T17:21:41.306989+01:00",
+    "updated_at": "2023-11-08T17:21:41.307051+01:00",
+    "created_by": {
+      "id": 1,
+      "name": "Simone"
+    }
+  },
+  {
+    "id": 7,
+    "metadata": {},
+    "name": "metric",
+    "type": "TEXT",
+    "level": "PROJECT",
+    "status": "ACTIVE",
+    "created_at": "2023-11-08T17:24:04.773567+01:00",
+    "updated_at": "2023-11-08T17:24:04.775122+01:00",
+    "created_by": {
+      "id": 1,
+      "name": "Simone"
+    }
+  },
+  {
+    "id": 4,
+    "metadata": {},
+    "name": "PROJECT_DESCRIPTION",
+    "type": "TEXT",
+    "level": "PROJECT",
+    "status": "ACTIVE",
+    "created_at": "2023-11-08T17:23:12.111604+01:00",
+    "updated_at": "2023-11-08T17:23:12.111656+01:00",
+    "created_by": {
+      "id": 1,
+      "name": "Simone"
+    }
+  },
+  {
+    "id": 5,
+    "metadata": {},
+    "name": "TUBE_MATERIAL",
+    "type": "TEXT",
+    "level": "PROJECT",
+    "status": "ACTIVE",
+    "created_at": "2023-11-08T17:23:23.940750+01:00",
+    "updated_at": "2023-11-08T17:23:23.940810+01:00",
+    "created_by": {
+      "id": 1,
+      "name": "Simone"
+    }
+  },
+  {
+    "id": 6,
+    "metadata": {},
+    "name": "wind-force",
+    "type": "NUMBER",
+    "level": "PROJECT",
+    "status": "ACTIVE",
+    "created_at": "2023-11-08T17:23:54.824048+01:00",
+    "updated_at": "2023-11-08T17:23:54.824104+01:00",
+    "created_by": {
+      "id": 1,
+      "name": "Simone"
+    }
+  },
+  {
+    "id": 9,
+    "metadata": {},
+    "name": "IMAGE1",
+    "type": "IMAGE",
+    "level": "DOCUMENT",
+    "status": "ACTIVE",
+    "created_at": "2023-11-08T17:35:56.272638+01:00",
+    "updated_at": "2023-11-08T17:35:56.272692+01:00",
+    "created_by": {
+      "id": 1,
+      "name": "Simone"
+    }
+  }
+]

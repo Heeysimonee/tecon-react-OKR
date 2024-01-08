@@ -1,18 +1,18 @@
 import "./App.css";
-import BaseSidebar from "./components/BaseSidebar";
-import BaseHeader from "./components/BaseHeader";
-import Library from "./components/Library";
+import BaseSidebar from "./components/base/BaseSidebar";
+import BaseHeader from "./components/base/BaseHeader";
+import Library from "./components/library/Library";
 
 function App() {
   return (
     <>
-      <div className="w-full h-[100vh] bg-red-500">
+      <div className="w-full h-[100vh]">
         <BaseHeader />
-        <div className="bg-green-500 h-[calc(100%-70px)]">
+        <div className="h-[calc(100%-70px)]">
           <div className="w-full h-full flex">
             <BaseSidebar />
-            <div className="w-11/12 bg-white">
-              <Library/>
+            <div className="w-full bg-slate-100">
+              <Library />
             </div>
           </div>
         </div>
